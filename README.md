@@ -29,10 +29,9 @@ GitHub, Git, Docker, Kubernetes, Jenkins, Jira, VS Code, Jupyter Notebook, Googl
 - **Aspect-Based Sentiment Analysis of Customer Experience**  
   NLP project for extracting aspect-level sentiment from customer feedback.  
   *Best Project Award*
-
-- **DeepSeek-R1 + A*-PO: Self-Improving AI for Multi-Step Reasoning**  
+- **DeepSeek-R1 + A*PO : Self-improving AI for Multi-step Reasoning**  
   Reinforcement learning framework for improving reasoning through adaptive optimization techniques.
-
+  
 - **End-to-End Serverless ML Pipeline with AWS SageMaker**  
   Built a scalable cloud-based ML pipeline with optimized inference workflows.
 
