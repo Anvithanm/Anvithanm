@@ -52,6 +52,9 @@ NLP project focused on extracting aspect-level sentiment from customer feedback 
 ### [A*-PO-Based Policy as Generative Verifier for Multi-Turn Self-Correcting Mathematical Reasoning](https://github.com/Anvithanm/policy-as-generative-verifier-a-star-po_project)
 Research-oriented project exploring reinforcement learning and adaptive optimization techniques for multi-step reasoning and self-improving AI systems.
 
+### [TinyZero-Inspired A-PO for Reinforcement Learning-Based Mathematical Reasoning](https://github.com/Anvithanm/TinyZero-inspired-A-PO-reasoning-RL)
+TinyZero-inspired implementation of A-PO for training language models on multi-step mathematical reasoning through reinforcement learning.
+
 ### [End-to-End Serverless ML Pipeline with AWS SageMaker](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)
 Designed a scalable serverless machine learning workflow with cloud-native deployment and inference optimization on AWS.
 
