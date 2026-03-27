@@ -45,7 +45,7 @@ Software Engineer with 5+ years of experience and an M.S. in Information Systems
 
 ## 📌 Featured Projects
 
-### [Aspect-Based Sentiment Analysis of Customer Experience](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)
+### [Aspect-Based Sentiment Analysis of Customer Experience](https://github.com/Anvithanm/sentiment-scout)
 NLP project focused on extracting aspect-level sentiment from customer feedback to generate more granular business insights.  
 **Recognition:** Best Project Award
 
@@ -55,14 +55,8 @@ Research-oriented project exploring reinforcement learning and adaptive optimiza
 ### [TinyZero-Inspired A-PO for Reinforcement Learning-Based Mathematical Reasoning](https://github.com/Anvithanm/TinyZero-inspired-A-PO-reasoning-RL)
 TinyZero-inspired implementation of A-PO for training language models on multi-step mathematical reasoning through reinforcement learning.
 
-### [End-to-End Serverless ML Pipeline with AWS SageMaker](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)
+### [Cloud-Based Data Pipeline Automation](https://github.com/Anvithanm/aws-data-pipeline-automation)
 Designed a scalable serverless machine learning workflow with cloud-native deployment and inference optimization on AWS.
-
-### [Scaled-Down GPT Model and LLM Fine-Tuning](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)
-Built a compact GPT-style language model and explored fine-tuning strategies for downstream language tasks.
-
-### [Deep Learning-Based Chest X-ray Multi-Label Classification](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)
-Applied deep learning methods to medical imaging for multi-label chest X-ray classification and analysis.
 
 ## 📊 GitHub Stats
 
