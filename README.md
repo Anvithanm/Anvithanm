@@ -1,9 +1,9 @@
 # Hi, I'm Anvitha 👋
 
-Software Engineer with 5+ years of experience and an M.S. in Information Systems from Northeastern University, specializing in AI/ML, data science, NLP, and intelligent systems development with an emphasis on real-world impact.
+Software Engineer with 6+ years of experience and an M.S. in Information Systems from Northeastern University, specializing in AI/ML, data science, NLP, and intelligent systems development with an emphasis on real-world impact.
 
 ## 💼 About Me
-- Software Engineer with 5+ years of industry experience
+- Software Engineer with 6+ years of industry experience
 - M.S. in Information Systems, Northeastern University
 - Interested in AI/ML, Data Science, NLP, Generative AI, and MLOps
 - Passionate about building intelligent systems that solve meaningful problems
